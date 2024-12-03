@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on university
+- 🔭 I’m currently working on my university studies
 - 🌱 I’m currently learning system engieneering
 <!--
 - 👯 I’m looking to collaborate on ...
